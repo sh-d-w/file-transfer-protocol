@@ -1,2 +1,6 @@
 # file-transfer-protocol
-A Protocol used to transfer files.
+Description: A Protocol used to transfer files.
+
+Special Thanks: Original code completed through WeThinkCode_
+  && 42.fr though am adding further customisations and
+  enhancements post Studies.
