@@ -1,9 +1,13 @@
-                       __________________
-                        S |-| - D - \/\/ 
-                       ==================
-
-   Original code developed during 42.fr curriculum. Project renamed
-   and refactored for clarity.
+                           __________________
+                            S |-| - D - \/\/
+                           ==================
+ 
+        Some code in this repo was developed during 42.fr curriculum.
+ 	     Each parent folder contains its respective independant Apache.20 
+            License for its particular derivation and purpose.
+  
+             Projects are renamed and refactored for clarity
+                       Created: by S𝔥𝔞⁽ᵃʰⁱ⁾d M𝔞𝔥𝔬𝔪𝔢ᵈ
 
    Copyright [2026] [S𝔥𝔞⁽ᵃʰⁱ⁾d M𝔞𝔥𝔬𝔪𝔢ᵈ]
 
