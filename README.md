@@ -1,4 +1,4 @@
-# c:
+# c
 Description: Workings and methods implemented in the c program language.
 
 # c/file-transfer-protocol
